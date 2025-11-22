@@ -18,3 +18,16 @@ Exploratory Data Analysis (EDA)
 Summary statistics, distribution plots, time-series charts, and boxplots
 
 A written technical report summarizing findings & hypotheses
+Key Findings
+
+Stock prices rose significantly across decades.
+
+Trading volume increased sharply, peaking in the 2000s.
+
+Volatility became much higher in the 1990s–2000s.
+
+Later decades show more extreme outliers and larger price swings.
+Running the Notebook
+
+Upload the ZIP file in Colab and run the notebook sequentially.
+Data loads, cleans, merges, and produces all visualizations automatically.
